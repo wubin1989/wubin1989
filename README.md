@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![wubin1989's GitHub stats](https://github-readme-stats.vercel.app/api?username=wubin1989)](https://github.com/anuraghazra/github-readme-stats)
+[![wubin1989's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wubin1989)](https://github.com/anuraghazra/github-readme-stats)
