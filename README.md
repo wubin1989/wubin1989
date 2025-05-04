@@ -1,6 +1,6 @@
 ## 👋 Hi I am Wu Bin - you can call me Will
 
-Hi 👋, I am Wu Bin, and I'm a Sr. Software engineer. I have overall 9 years of experience in software engineering in which I've been mostly working on Javascript, Java and Golang alongside its frameworks. I do write tech articles for different publications as well. Experienced in JavaScript-based tech-stacks such as Vue, React, NodeJS, Java-based tech-stacks such as Springboot, Spring Cloud and Golang-based tech-stacks such as Beego, Gin and Go-doudou on small to large scale projects. I am the author of Go-doudou, a microservice framework for Golang.
+Hi 👋, I am Wu Bin, and I'm a Sr. Software engineer. I have overall 10+ years of experience in software engineering in which I've been mostly working on Javascript, Java and Golang alongside its frameworks. I do write tech articles for different publications as well. Experienced in JavaScript-based tech-stacks such as Vue, React, NodeJS, Java-based tech-stacks such as Springboot, Spring Cloud and Golang-based tech-stacks such as Beego, Gin and Go-doudou on small to large scale projects. I am the author of Go-doudou, a microservice framework for Golang.
 
 ## About Me:
 - 🔭 I’m currently working on Javascript, Nodejs, Java, Golang, DevOps
